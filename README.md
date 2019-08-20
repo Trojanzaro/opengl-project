@@ -16,4 +16,3 @@ In order to compile programms use the following command:
 
 sources for codes here: http://ogldev.atspace.co.uk/
 
-testing teh pull request thingy
