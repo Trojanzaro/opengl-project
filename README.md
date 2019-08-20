@@ -6,4 +6,3 @@ g++ main.cc -lglut -lGLU -lGL
 
 sources for codes here: http://ogldev.atspace.co.uk/
 
-testing teh pull request thingy
